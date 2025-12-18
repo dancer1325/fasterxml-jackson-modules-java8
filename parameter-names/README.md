@@ -1,4 +1,6 @@
-Jackson module that adds support for accessing parameter names; a feature added in JDK 8.
+* == Jackson module /
+  * provides
+    * support for [accessing parameter names](https://openjdk.org/jeps/118)
 
 ## Usage
 
